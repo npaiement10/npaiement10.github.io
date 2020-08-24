@@ -5,15 +5,23 @@
 ## Personal Information
 Surname(s) / First name(s): Nicholas Paiement
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [paiemenn@mcmaster.ca](mailto:youremail@domain.com)
 
-Date of birth: Write your date of birth here
+Date of birth: 08-05-2002
 
 ### About Me
 
 Write a few sentences describing you the best.
 
+### List of hobbies:
 
+* Coding
+  * Elm
+  * Haskell
+    * Stack
+    * ghc
+* Biking
+* Hiking
 
 ```markdown
 ### List of hobbies:
